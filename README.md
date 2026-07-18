@@ -45,17 +45,12 @@ A full statistical summary is available in:
 - `statistics_summary.xlsx`
 
 ## Visualisations
-### Histogram
 
 <h3>Histogram</h3>
 <img src="images/histogram.png" width="600">
 
-### Scatter Plot
-
 <h3>Scatter Plot</h3>
 <img src="images/scatterplot.png" width="600">
-
-### Box Plot
 
 <h3>Box Plot</h3>
 <img src="images/boxplot.png" width="600">
